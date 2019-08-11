@@ -1,0 +1,100 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+#logo{
+  float: left;
+  width: 10%;
+}
+
+.nav_bar{
+  width: 100%;
+  height: 80px;
+}
+
+.container{
+  float: left;
+  margin-top: 18px;
+
+
+  }
+
+  .nav-link{
+    padding: 24px 24px;
+    font-size: 1.5vw;
+    text-decoration: none;
+    color: black;
+  }
+
+  .input-profile{
+    float: right;
+    padding-right: 24px;
+    padding-top: 18px;
+
+  }
+
+  .buyer_content{
+    text-align: center;
+    padding-top: 50px;
+  }
+
+  .product_images{
+    width: 20%;
+    padding-right: 100px;
+  }
+  .buyer_text{
+    padding-left: 140px;
+  }
+
+  .product_text{
+    width: 20%;
+    padding-right: 140px;
+    float: left;
+  }
+
+  .main_info{
+    height: 500px;
+  }
+
+  #info_header{
+    padding-top: 150px;
+    padding-left: 400px;
+  }
+  #info{
+    padding-left: 400px;
+  }
+
+
+
+  #main_image{
+    width: 30%;
+    padding-top: 50px;
+    float: left;
+  }
+
+  #image1{
+    width: 50%;
+    float:left;
+  }
+
+  #image2{
+    float: right;
+    width: 50%;
+  }
+
+  #offer_2_text{
+    float: left;
+    width: 50%;
+  }
+
+  #heading2{
+    padding-top: 280px;
+    width:50%;
+    margin: 0px;
+  }
+
+  #heading1{
+    padding-top: 180px;
+
+  }
